@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 
-    //adjacency matrix
+    //adjacency matrix..
     int n,m;
     cin>>n>>m;
     int g[n+1][m+1];
